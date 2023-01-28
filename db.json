@@ -2,18 +2,21 @@
   "users": [
     {
       "id": 1,
-      "name": "Malgox"
+      "name": "Malgox",
+        "deck": [8,10,200,300,600]
 
     },
 
     {
       "id": 2,
-      "name": "Sonicmaster003"
+      "name": "Sonicmaster003",
+      "deck": [ 9, 15, 250, 350, 650 ]
 
     },
     {
       "id": 3,
-      "name": "SerifMustang"
+      "name": "SerifMustang",
+      "deck": [ 6, 20, 400, 500, 800 ]
 
     }
 
